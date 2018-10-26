@@ -1,0 +1,24 @@
+{
+  "name": "mongoose-query-express",
+  "version": "0.0.1",
+  "description": "Query mongoose via Express query",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mccabemj/mongoose-pagination.git"
+  },
+  "keywords": [
+    "mongoose",
+    "panginate",
+    "pagination"
+  ],
+  "author": "Michael McCabe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mccabemj/mongoose-pagination/issues"
+  },
+  "homepage": "https://github.com/mccabemj/mongoose-pagination#readme"
+}
